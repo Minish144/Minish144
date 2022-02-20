@@ -12,5 +12,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Nick</h1>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=minish144&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=00000000" alt="minish144 gh stats"/>
+    <a href="https://github.com/Minish144?tab=repositories" target="blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=minish144&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=00000000" alt="minish144 gh stats"/>
+    </a>
 </p>
