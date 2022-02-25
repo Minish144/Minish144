@@ -15,4 +15,7 @@
     <a href="https://github.com/Minish144?tab=repositories" target="blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=minish144&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=00000000" alt="minish144 gh stats"/>
     </a>
+    <a href="http://github-readme-streak-stats.herokuapp.com?user=minish144&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=DD110000" target="blank">
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=minish144&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=DD110000&fire=FF7100)](https://git.io/streak-stats"/>
+   </a>
 </p>
